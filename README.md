@@ -19,7 +19,7 @@ I'm a software engineer with a strong interest in **backend development, data an
 - Backend > frontend
 - I love rock climbing but I can only climb V3s
 - You will not beat me in a game of billiards
-- I'm always caffinated
+- I'm always caffeinated
 
 ---
 ⭐ Always curious. Always building.
