@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Gennady
 
-<!--
-**gennadykriss/gennadykriss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer with a strong interest in **backend development, data analysis, and cybersecurity**. I enjoy building practical systems, digging into how things work under the hood, and turning data into real-world insights.
 
-Here are some ideas to get you started:
+## 💻 What I’m working with
+- Backend development (Java, Spring Boot)
+- Data analysis & machine learning (Python, TensorFlow, scikit-learn)
+- Web technologies (React, REST APIs)
+- Databases (SQL, NoSQL)
+- DevOps basics (Git, CI/CD)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Current interests
+- Botnet detection  
+- Network security and anomaly detection  
+- Scalable backend systems  
+- Data-driven decision making
+
+## Fun Facts 😄
+- Backend > frontend
+- I love rock climbing but I can only climb V3s
+- You will not beat me in a game of billiards
+- I'm always caffinated
+
+---
+⭐ Always curious. Always building.
